@@ -1,0 +1,5 @@
+cp "/sdcard/Downloads/Atividade-Aula03 - Desafio01.pdf" ~/engenharia-de-prompt-ia/Unidade\ 1/
+cd ~/engenharia-de-prompt-ia
+git add "Unidade 1/Atividade-Aula03 - Desafio01.pdf"
+git commit -m "Adiciona Atividade Aula03 Desafio01"
+git push origin main
