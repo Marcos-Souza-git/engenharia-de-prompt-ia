@@ -1,8 +1,8 @@
-# 1. Problema escolhido 
+#1. Problema escolhido 
 
 Criar um programa em Python que calcule a média de alunos
 
-# 2. Primeira interação (vaga)
+#2. Primeira interação (vaga)
 
 ### Prompt:
 
@@ -23,7 +23,7 @@ print(media)
 
 ---
 
-# 3. Aplicação da equação de prompt ( Persona + Contexto + Restrições + Formato)
+#3. Aplicação da equação de prompt ( Persona + Contexto + Restrições + Formato)
 
 ### Persona
 
@@ -49,7 +49,7 @@ A IA deve atuar como um professor doutor em Ciência da Computação especializa
 
 ---
 
-# 4. Prompt estruturado
+#4. Prompt estruturado
 
 ```markadown
 Você em um professor doutorado em programação experiente.
@@ -64,7 +64,7 @@ Instrução:
 
 ---
 
-# 5. Resultado do Prompt
+#5. Resultado do Prompt
 
 ```python
 notas = []
